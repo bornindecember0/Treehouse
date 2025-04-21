@@ -7,7 +7,8 @@ class PatchEmbedding(nn.Module):
         self.image_size = image_size # e.g. 224 × 224
         self.patch_size = patch_size # e.g. 16 × 16
         self.num_patches = (image_size // patch_size) ** 2
-        self.num_tokens = self.num_patches+1 # num_patches + 1 [CLS] token
+        self.num_tokens = self.num_patches+1 # num_patches + 1 [CLS] token  #delete?
+        #self.embed_dim = embed_dim
 
         # convolution layer to extract and project patches
         self.projection = nn.Conv2d(
@@ -21,6 +22,16 @@ class PatchEmbedding(nn.Module):
         self.cls_token = nn.Parameter(torch.zeros(1, 1, embed_dim))
         self.pos_embed = nn.Parameter(torch.zeros(1, self.num_patches + 1, embed_dim))
         self.dropout = nn.Dropout(0.1) # subjet to change
+        
+        self._init_weights()
+
+    def _init_weights(self):
+        nn.init.trunc_normal_(self.cls_token, std=0.02)
+        nn.init.trunc_normal_(self.pos_embed, std=0.02)
+        nn.init.xavier_uniform_(self.projection.weight)
+        if self.projection.bias is not None:
+            nn.init.zeros_(self.projection.bias)
+
 
     def forward(self, x): 
         x = self.projection(x)               

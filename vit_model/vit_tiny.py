@@ -23,12 +23,23 @@ class ViTTiny(nn.Module):
         # classification head
         self.head = nn.Linear(embed_dim, num_classes)
 
+        self.apply(self._init_weights)
+
+    def _init_weights(self, m):
+        if isinstance(m, nn.Linear):
+            nn.init.xavier_uniform_(m.weight)
+            if m.bias is not None:
+                nn.init.zeros_(m.bias)
+        elif isinstance(m, nn.LayerNorm):
+            nn.init.ones_(m.weight)
+            nn.init.zeros_(m.bias)
+
     def forward(self, x, return_embedding=False): #!!! change return_embedding=True if you want to use LLM integration
         x = self.patch_embed(x)   
         x = self.transformer_encoder(x)    
         x = self.norm(x)          
         cls_token = x[:, 0]       
-        classification_output = self.head(cls_token)
+        classification_output = self.head(cls_token) #delete?
 
         if return_embedding:
             return cls_token          # for LLM integration
