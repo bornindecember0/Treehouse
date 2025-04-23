@@ -2,3 +2,8 @@ CUB_200_2011/
 logs/
 cub_split/
 .pth
+
+nabirds/
+nabirds_split/
+nabirds.tar
+attributes.txt

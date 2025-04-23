@@ -2,7 +2,7 @@
 #SBATCH --job-name=tinyvit_cub200
 #SBATCH --output=logs/train_%j.out
 #SBATCH --error=logs/train_%j.err
-#SBATCH --time=4:00:00
+#SBATCH --time=24:00:00
 #SBATCH --cpus-per-task=4
 #SBATCH --gres=gpu:1
 #SBATCH --mem=16G
@@ -13,5 +13,6 @@
 # conda activate minivlm
 nvidia-smi
 echo "Running on: $SLURMD_NODENAME"
-python train.py
+python train_with_log.py 
+
 echo "Finished training at: $(date)"
