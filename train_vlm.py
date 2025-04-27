@@ -144,6 +144,9 @@ def train():
     model.tokenizer.save_pretrained(f"{output_dir}/tokenizer")
     print(f"Training complete. Model saved to {config['output_dir']}")
 
+    #new! call evaluation
+    evaluate_vlm(model, train_dataset, tokenizer)
+
 if __name__ == "__main__":
     os.makedirs(config["output_dir"], exist_ok=True)
     train()
