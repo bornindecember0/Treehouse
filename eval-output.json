@@ -1,0 +1,802 @@
+[
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a sparrow species, likely a Song Sparrow.",
+      "ground_truth_answer": "Blue headed Vireo",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How would you describe the shape of the bird's beak?",
+      "predicted_answer": "The bird has a stout and strong bill that is gray in color.",
+      "ground_truth_answer": "Long, pointy",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is the bird's belly primarily dark-colored?",
+      "predicted_answer": "The bird's belly is primarily rufous with a barred pattern.",
+      "ground_truth_answer": "yes",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a thrush with a speckled breast pattern.",
+      "ground_truth_answer": "Gray Kingbird",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the bird's vent?",
+      "predicted_answer": "The main color of this bird is black.",
+      "ground_truth_answer": "bright white",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the bird's beak?",
+      "predicted_answer": "The main color of this bird is black.",
+      "ground_truth_answer": "Red",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the shape of the bird's beak?",
+      "predicted_answer": "The bird has a thin and straight bill that is horn-colored in color.",
+      "ground_truth_answer": "pointed",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the breast of this bird?",
+      "predicted_answer": "The bird's breast is primarily gray with a spotted pattern.",
+      "ground_truth_answer": "white",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the size of this bird?",
+      "predicted_answer": "The bird is small with a compact body.",
+      "ground_truth_answer": "medium",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What colors are the bird's wings?",
+      "predicted_answer": "The bird's wing is primarily rufous with a barred pattern.",
+      "ground_truth_answer": "Grey, black",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How big is this bird?",
+      "predicted_answer": "This bird has the characteristic appearance of a small woodland songbird.",
+      "ground_truth_answer": "Not",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How big is the bird?",
+      "predicted_answer": "This is a small songbird with distinctive markings.",
+      "ground_truth_answer": "small",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 100.0
+    },
+    {
+      "question": "What color is the head of this bird?",
+      "predicted_answer": "The bird's head is primarily black with a spotted pattern.",
+      "ground_truth_answer": "Green, with orange, black markings",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 40.0
+    },
+    {
+      "question": "What color are the bird's wings?",
+      "predicted_answer": "The bird's wing is primarily black with a spotted pattern.",
+      "ground_truth_answer": "Black with grey primaries, secondaries",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 40.0
+    },
+    {
+      "question": "Are there any yellow markings on the bird's body?",
+      "predicted_answer": "The bird shows a wing bars.",
+      "ground_truth_answer": "Yes, yellow strip for eye borrows, yellow eyebrows",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is the bird large in size?",
+      "predicted_answer": "The bird is small with a stocky body.",
+      "ground_truth_answer": "no",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What color is the bird's covert?",
+      "predicted_answer": "The main color of this bird is brown.",
+      "ground_truth_answer": "Red",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Are there any notable markings on this bird's body?",
+      "predicted_answer": "The bird shows a capped head pattern.",
+      "ground_truth_answer": "white spots",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What color are its feet and tarsus?",
+      "predicted_answer": "The main color of this bird is blue.",
+      "ground_truth_answer": "brown",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a jay with blue wing feathers.",
+      "ground_truth_answer": "Ivory Gull",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the bird's wings?",
+      "predicted_answer": "The bird's wing is primarily gray with a solid pattern.",
+      "ground_truth_answer": "black with white wingbars",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 25.0
+    },
+    {
+      "question": "What is the shape of the bird's beak?",
+      "predicted_answer": "The bird has a long and pointed bill that is black in color.",
+      "ground_truth_answer": "Pointy",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What color are the bird's head feathers?",
+      "predicted_answer": "The bird's head is primarily green with a solid pattern.",
+      "ground_truth_answer": "red",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the overall color scheme of this bird's body?",
+      "predicted_answer": "The main color of this bird is white.",
+      "ground_truth_answer": "Green, blue, purple, brown",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What are the colors of this bird's tail and wings?",
+      "predicted_answer": "The bird's wing is primarily green with a barred pattern.",
+      "ground_truth_answer": "brown with white wingbars",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 25.0
+    },
+    {
+      "question": "Is the bird's back brown?",
+      "predicted_answer": "This appears to be a perching bird with sparrow-like features.",
+      "ground_truth_answer": "Yes",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of its crown?",
+      "predicted_answer": "The bird's crown is primarily green with a spotted pattern.",
+      "ground_truth_answer": "black with pointed feathers",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 25.0
+    },
+    {
+      "question": "What is the coloration of the bird's belly?",
+      "predicted_answer": "The bird's belly is primarily olive with a barred pattern.",
+      "ground_truth_answer": "Gray, White",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a finch with a conical bill.",
+      "ground_truth_answer": "Clay colored Sparrow",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How long are the bird's upper tail coverts?",
+      "predicted_answer": "This is a small songbird with distinctive markings.",
+      "ground_truth_answer": "Very long",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How would you describe the size of this bird?",
+      "predicted_answer": "The bird is fairly small with a compact body.",
+      "ground_truth_answer": "Small",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 100.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a sparrow species, likely a Song Sparrow.",
+      "ground_truth_answer": "Red legged Kittiwake",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of this bird's bill?",
+      "predicted_answer": "The main color of this bird is gray.",
+      "ground_truth_answer": "orange",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What are the colors of the bird's wings?",
+      "predicted_answer": "The bird's wing is primarily brown with a barred pattern.",
+      "ground_truth_answer": "Darker gray, fading to black",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What color is the bird's crown?",
+      "predicted_answer": "The bird's crown is primarily reddish-brown with a solid pattern.",
+      "ground_truth_answer": "brown",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is the bird large?",
+      "predicted_answer": "The bird is medium-large with a stocky body.",
+      "ground_truth_answer": "Yes",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the shape of the bird's eyes?",
+      "predicted_answer": "The bird has dark eyes with a stripe above the eye.",
+      "ground_truth_answer": "Rounded",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How long is the bird's beak?",
+      "predicted_answer": "The bird has a thin and straight bill that is dark in color.",
+      "ground_truth_answer": "very short",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of its tarsus?",
+      "predicted_answer": "The main color of this bird is white.",
+      "ground_truth_answer": "Red",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the legs and feet?",
+      "predicted_answer": "The main color of this bird is yellow.",
+      "ground_truth_answer": "orange",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a finch with a conical bill.",
+      "ground_truth_answer": "Whip poor Will",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the bird's belly?",
+      "predicted_answer": "The bird's belly is primarily green with a solid pattern.",
+      "ground_truth_answer": "White with specks of brown",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 20.0
+    },
+    {
+      "question": "What shape is its beak?",
+      "predicted_answer": "The bird has a short and conical bill that is horn-colored in color.",
+      "ground_truth_answer": "short, pointed",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 50.0
+    },
+    {
+      "question": "What color is the bird's throat?",
+      "predicted_answer": "The bird's throat is primarily green with a spotted pattern.",
+      "ground_truth_answer": "White",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is there a white patch on its face?",
+      "predicted_answer": "The bird has streaking on its underparts and a plain back.",
+      "ground_truth_answer": "yes",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is the bird small in size?",
+      "predicted_answer": "The bird is medium-sized with a slender body.",
+      "ground_truth_answer": "yes",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Are there any distinctive markings on its belly?",
+      "predicted_answer": "The bird shows a streaked breast pattern.",
+      "ground_truth_answer": "white",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the shape and color of the bird's beak?",
+      "predicted_answer": "The main color of this bird is olive.",
+      "ground_truth_answer": "medium, curved, gray bill",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a sparrow species, likely a Song Sparrow.",
+      "ground_truth_answer": "Mallard",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the dominant color of the bird's wings?",
+      "predicted_answer": "The bird's wing is primarily gray with a solid pattern.",
+      "ground_truth_answer": "black",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the crown feather color?",
+      "predicted_answer": "The bird's crown is primarily yellow with a streaked pattern.",
+      "ground_truth_answer": "brown",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of this bird's belly?",
+      "predicted_answer": "The bird's belly is primarily rufous with a solid pattern.",
+      "ground_truth_answer": "white with brown spots",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 25.0
+    },
+    {
+      "question": "What is the shape of its breast?",
+      "predicted_answer": "The bird has a compact shape.",
+      "ground_truth_answer": "Rounded",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is there a ring around the bird's eye?",
+      "predicted_answer": "The bird has dark eyes with a dark eyeline.",
+      "ground_truth_answer": "Yes, partial white eyering",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the bird's crown?",
+      "predicted_answer": "The bird's crown is primarily green with a streaked pattern.",
+      "ground_truth_answer": "off",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is it an aquatic bird?",
+      "predicted_answer": "The bird has streaking on its underparts and a plain back.",
+      "ground_truth_answer": "yes",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What pattern does the bird's breast have?",
+      "predicted_answer": "The bird shows a spotted underparts.",
+      "ground_truth_answer": "speckled with brown dots",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of its bill?",
+      "predicted_answer": "The main color of this bird is brown.",
+      "ground_truth_answer": "Yellow, with a pointed orange tip",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the primary color of the bird's body?",
+      "predicted_answer": "The main color of this bird is gray.",
+      "ground_truth_answer": "Brown",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What color is its belly?",
+      "predicted_answer": "The bird's belly is primarily rufous with a mottled pattern.",
+      "ground_truth_answer": "White",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How would you describe its overall appearance?",
+      "predicted_answer": "The bird has streaking on its underparts and a plain back.",
+      "ground_truth_answer": "puffy",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the length of the bird's tarsus?",
+      "predicted_answer": "This bird has the characteristic appearance of a small woodland songbird.",
+      "ground_truth_answer": "Very",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a chickadee with a black cap.",
+      "ground_truth_answer": "Pigeon Guillemot",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the bird's crown and head?",
+      "predicted_answer": "The bird's head is primarily rufous with a barred pattern.",
+      "ground_truth_answer": "black",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a sparrow species, likely a Song Sparrow.",
+      "ground_truth_answer": "Blue Jay",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is the bird primarily brown?",
+      "predicted_answer": "The bird has streaking on its underparts and a plain back.",
+      "ground_truth_answer": "yes",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the texture of the feathers on the bird's head?",
+      "predicted_answer": "The bird has streaking on its underparts and a plain back.",
+      "ground_truth_answer": "Fine, fluffy",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a type of warbler with distinctive markings.",
+      "ground_truth_answer": "Herring Gull",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the shape of the bird's beak?",
+      "predicted_answer": "The bird has a stout and strong bill that is dark in color.",
+      "ground_truth_answer": "Short pointed",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What colors are visible on its throat?",
+      "predicted_answer": "The bird's throat is primarily black with a streaked pattern.",
+      "ground_truth_answer": "Orange, Yellow",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a thrush with a speckled breast pattern.",
+      "ground_truth_answer": "Boat tailed Grackle",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What colors are on the bird's belly and abdomen area?",
+      "predicted_answer": "The bird's belly is primarily yellow with a spotted pattern.",
+      "ground_truth_answer": "White",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is the bird's beak long or short?",
+      "predicted_answer": "The bird has a slightly curved bill that is black in color.",
+      "ground_truth_answer": "short",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a finch with a conical bill.",
+      "ground_truth_answer": "Groove billed Ani",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What are the colors of the bird's belly?",
+      "predicted_answer": "The bird's belly is primarily reddish-brown with a solid pattern.",
+      "ground_truth_answer": "light gray",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How long is its wingspan?",
+      "predicted_answer": "The bird has streaking on its underparts and a plain back.",
+      "ground_truth_answer": "Long",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a type of warbler with distinctive markings.",
+      "ground_truth_answer": "Lazuli Bunting",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What color is its breast?",
+      "predicted_answer": "The bird's breast is primarily blue with a mottled pattern.",
+      "ground_truth_answer": "White",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Does it have a long, thin beak?",
+      "predicted_answer": "The bird has a thin and straight bill that is yellowish in color.",
+      "ground_truth_answer": "Yes",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the bird's crown?",
+      "predicted_answer": "The bird's crown is primarily gray with a streaked pattern.",
+      "ground_truth_answer": "black",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is the bird's tail a distinctively different color from its body?",
+      "predicted_answer": "The bird's tail is primarily gray with a streaked pattern.",
+      "ground_truth_answer": "no",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How large is this bird?",
+      "predicted_answer": "The bird is fairly small with a slender body.",
+      "ground_truth_answer": "small",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 100.0
+    },
+    {
+      "question": "Is this bird large or small?",
+      "predicted_answer": "The bird is medium-sized with a proportionate body.",
+      "ground_truth_answer": "Small",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the bird's head?",
+      "predicted_answer": "The bird's head is primarily reddish-brown with a solid pattern.",
+      "ground_truth_answer": "Black",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of its eyes and beak?",
+      "predicted_answer": "The main color of this bird is green.",
+      "ground_truth_answer": "Black",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What color are the feathers on the bird's neck?",
+      "predicted_answer": "The main color of this bird is green.",
+      "ground_truth_answer": "white",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the size of the bird?",
+      "predicted_answer": "The bird is medium-sized with a stocky body.",
+      "ground_truth_answer": "Medium",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Are there any prominent features on the bird's breast?",
+      "predicted_answer": "This is a small songbird with distinctive markings.",
+      "ground_truth_answer": "brown speckles",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Are there any striking features on the bird's head?",
+      "predicted_answer": "The bird shows field marks including a conical bill and patterned plumage.",
+      "ground_truth_answer": "Yes, a red crown with black, white striped superciliary",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 11.11111111111111
+    },
+    {
+      "question": "What color is the bird's belly?",
+      "predicted_answer": "The bird's belly is primarily reddish-brown with a barred pattern.",
+      "ground_truth_answer": "White",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of the belly and breast of this particular bird?",
+      "predicted_answer": "The bird's breast is primarily yellow with a barred pattern.",
+      "ground_truth_answer": "Tan",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How would you describe the shape of the beak?",
+      "predicted_answer": "The bird has a long and pointed bill that is dark in color.",
+      "ground_truth_answer": "conical",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "Is the bird's belly speckled?",
+      "predicted_answer": "This appears to be a perching bird with sparrow-like features.",
+      "ground_truth_answer": "yes",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the length of the bird's beak?",
+      "predicted_answer": "The bird has a slightly curved bill that is yellowish in color.",
+      "ground_truth_answer": "Short",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of its belly?",
+      "predicted_answer": "The bird's belly is primarily brown with a streaked pattern.",
+      "ground_truth_answer": "white",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of its head, throat, upper chest, and back?",
+      "predicted_answer": "The bird's head is primarily blue with a solid pattern.",
+      "ground_truth_answer": "Light Grey",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "How big is this bird?",
+      "predicted_answer": "The bird shows field marks including a conical bill and patterned plumage.",
+      "ground_truth_answer": "Small",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a nuthatch with a straight bill.",
+      "ground_truth_answer": "Olive sided Flycatcher",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What is the color of its head?",
+      "predicted_answer": "The bird's head is primarily white with a solid pattern.",
+      "ground_truth_answer": "Black",
+      "keyword_match": true,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    },
+    {
+      "question": "What species is this bird?",
+      "predicted_answer": "The bird in the image appears to be a finch with a conical bill.",
+      "ground_truth_answer": "Western Grebe",
+      "keyword_match": false,
+      "full_sentence_exact_match": false,
+      "partial_overlap_percentage": 0.0
+    }
+  ]
