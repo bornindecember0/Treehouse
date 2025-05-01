@@ -3,7 +3,7 @@
 This project explores fine-grained visual question answering (VQA) on bird species using a lightweight vision-language model (VLM). It leverages a TinyViT encoder and a Phi-3-mini LLM, trained on CUB-200-2011 and custom question-answer annotations.
 
 ### Project Structure
-- `QnA_datapreprocess/`: Scripts to convert bird attribute data into natural language QA pairs.
+- `QnA_datapreprocess/`: Scripts for generating natural language QA pairs from bird description annotations using a local LLaMA model.
 - `vit_model/`: Custom ViT-Tiny architecture code.
 - `train_flxible.py`: Full-featured ViT training script with tuning options.
 - `train_mac.py`: Lightweight ViT training for macOS.
@@ -25,4 +25,4 @@ python train_vlmv2.py
 
 ### Datasets
 - **CUB-200-2011**: 11,788 images across 200 species (used for training the visual encoder).
-- **Bird VQA (Custom)**: Natural language QA pairs per image generated from CUB attributes.
+- **Bird VQA (Custom)**: Natural language QA pairs per image generated from CUB dircriptions.
