@@ -13,6 +13,7 @@ This project explores fine-grained visual question answering (VQA) on bird speci
 - `attributes.txt`: Bird attributes used for QA generation.
 - `preprocess.py`: Organizes the CUB dataset into train/val format.
 - `tinyvit_cub200.pth`: Trained ViT weights on CUB.
+- `docs/`: Project outline, reflection, final report, and poster.
 
 
 
