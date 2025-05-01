@@ -25,4 +25,4 @@ python train_vlmv2.py
 
 ### Datasets
 - **CUB-200-2011**: 11,788 images across 200 species (used for training the visual encoder).
-- **Bird VQA (Custom)**: Natural language QA pairs per image generated from CUB dircriptions.
+- **Bird VQA (Custom)**: Natural language QA pairs per image generated from CUB descriptions.
