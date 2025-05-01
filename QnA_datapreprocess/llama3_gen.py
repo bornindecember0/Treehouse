@@ -54,7 +54,7 @@ def extract_json_array(output):
             qa["answer"] = clean_answer(qa["answer"], qa["question"])
         return qa_pairs
     except Exception as e:
-        print("[⚠️ Parse error]", e)
+        print("[Parse error]", e)
         print("[Raw output]", output)
         return []
 
